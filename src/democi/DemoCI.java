@@ -23,7 +23,7 @@ public class DemoCI {
         System.out.println("");
         
         Add a = new Add();
-        int result1 = a.Add(1, 2);
+        int result1 = a.Add(1, y);
         System.out.println(result1);
         
         Multi m = new Multi();
