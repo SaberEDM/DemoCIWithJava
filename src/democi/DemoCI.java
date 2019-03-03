@@ -7,7 +7,6 @@ package democi;
 
 import calculation.Add;
 import calculation.Multi;
-import java.util.Scanner;
 
 /**
  *
