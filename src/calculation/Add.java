@@ -13,8 +13,4 @@ public class Add {
     public int Add(int number1, int number2) {
         return number1 + number2;
     }
-
-    public int Multiple(int number1, int number2) {
-        return number1 * number2
-    }
 }
